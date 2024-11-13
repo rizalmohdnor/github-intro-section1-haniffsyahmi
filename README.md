@@ -1,6 +1,6 @@
-| Name | Matric Number |
-|---|---|
-| MUHAMMAD HANIF SYAHMI BIN MOHD FITRI | 2223305 |
+## | Name | Matric Number |
+## |---|---|
+## | MUHAMMAD HANIF SYAHMI BIN MOHD FITRI | 2223305 |
 
 # :wave: The Basics of GitHub 
 
