@@ -1,3 +1,6 @@
+<h1 style="color:blue; text-align:center;">Your Name</h1>
+<h2 style="color:gray; text-align:center;">Matric Number: Your Matric Number</h2>
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
