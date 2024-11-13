@@ -1,6 +1,3 @@
-<h1 style="color:blue; text-align:center;">Name : MUHAMMAD HANIF SYAHMI BIN MOHD FITRI</h1>
-<h1 style="color:gray; text-align:center;">Matric Number: 2223305</h1>
-
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
